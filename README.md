@@ -1,3 +1,8 @@
+**WORKING LINK**
+
+https://colab.research.google.com/drive/1dElI8grKjJDI6w29QAmJAivzRtNR4ME3?usp=sharing
+
+
 **Dataset**
 
 Dataset used: Wind Turbine SCADA Dataset from Kaggle
